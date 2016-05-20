@@ -1,6 +1,6 @@
 {
-  "name": "sails-swagger",
-  "version": "0.5.1",
+  "name": "nx-sails-swagger",
+  "version": "0.6.0",
   "description": "swagger.io integration for sails.js",
   "main": "dist/api/hooks/swagger/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tjwebb/sails-swagger.git"
+    "url": "https://github.com/nexoes/nx-sails-swagger.git"
   },
   "keywords": [
     "sails",
@@ -20,12 +20,12 @@
     "sdk",
     "documentation"
   ],
-  "author": "Travis Webb <me@traviswebb.com>",
+  "author": "Peter Andreas Moelgaard <admin@petermolgaard.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tjwebb/sails-swagger/issues"
+    "url": "https://github.com/nexoes/nx-sails-swagger/issues"
   },
-  "homepage": "https://github.com/tjwebb/sails-swagger",
+  "homepage": "https://github.com/nexoes/nx-sails-swagger",
   "devDependencies": {
     "babel": "^5.8.21",
     "gulp": "^3.9.0",
