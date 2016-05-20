@@ -1,6 +1,6 @@
 {
   "name": "nx-sails-swagger",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "swagger.io integration for sails.js",
   "main": "dist/api/hooks/swagger/index.js",
   "scripts": {
